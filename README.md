@@ -36,7 +36,7 @@ A continuación se presentan las distintas solapas del reporte:
 ![CLUB](https://user-images.githubusercontent.com/51711170/212340345-e04067d0-31f8-4823-aff3-02ccee02db78.jpg)
 
 ### ANÁLISIS A NIVEL JUGADOR
-![JUGADOR](https://user-images.githubusercontent.com/51711170/212340361-fd5fb518-0001-40aa-8f0a-76a9fecc0b47.jpg)
+![image](https://github.com/Rickozono/Analisis-Mercado-de-Pases-Julio-Septiembre-2022/assets/51711170/54231216-82db-4240-a146-3a87a0192d3b)
 
 
 
